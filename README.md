@@ -4,11 +4,17 @@
 This repository contains scripts used for gene expression processing,
 integration, and visualization for the study:
 
-Lee et al. (2026) – Impacts of gene duplication in the evolution of symbiotic root nodule symbiosis in legumes
+Title:
+Impacts of gene duplication in the evolution of symbiotic root nodule symbiosis in legumes. 
+
+Journal:
+Front. Plant Sci. 17:1784647. 
+
+DOI:
+doi: 10.3389/fpls.2026.1784647
 
 Authors:
 Hyun-oh Lee,  Andrew D. Farmer, Jamie A. O’Rourke, Jeffrey J. Doyle, Steven B. Cannon
-
 
 The purpose of this repository is to provide a transparent and reproducible
 record of the analytical steps used to generate expression summaries,
@@ -154,4 +160,4 @@ are provided for reproducibility purposes.
 
 If you use these scripts, please cite:
 
-Lee et al. (2026) – Impacts of gene duplication in the evolution of symbiotic root nodule symbiosis in legumes
+Lee H, Farmer AD, O’Rourke JA, Doyle JJ and Cannon SB (2026) Impacts of gene duplication in the evolution of symbiotic root nodule symbiosis in legumes. Front. Plant Sci. 17:1784647. doi: 10.3389/fpls.2026.1784647
